@@ -1,0 +1,1 @@
+ganache -m 'eagle copper caution hint wrestle choose scout present huge robot illegal version' -f 'https://distinguished-multi-thunder.quiknode.pro/ab29ea1969a17cfb88454a55b3fce3c9f7269d92/' -a 10

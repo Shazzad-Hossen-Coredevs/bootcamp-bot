@@ -3,5 +3,14 @@
   "version": "1.0.0",
   "main": "src/index.js",
   "author": "Shazzad Hossen",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "dev": "node src/index.js",
+    "convert-weth": "node src/scripts/convertWETH.js",
+    "buy": "node src/scripts/buy.js",
+    "sell": "node src/scripts/sell.js"
+  },
+  "dependencies": {
+    "ethers": "^6.15.0"
+  }
 }
