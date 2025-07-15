@@ -1,0 +1,7 @@
+{
+  "name": "bootcamp",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "author": "Shazzad Hossen",
+  "license": "MIT"
+}
